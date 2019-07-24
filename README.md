@@ -5,5 +5,6 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Blog
+  Gatsby Blog (<a href= "https://tiki92.github.io/Blog/">preview</a>)
 </h1>
+
